@@ -10,4 +10,6 @@ public class Config {
     private String beanName;
 
     private String courseName;
+
+    private String teacher;
 }
