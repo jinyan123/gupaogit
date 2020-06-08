@@ -13,4 +13,8 @@ public class Config {
 
     private String teacher;
 
+    private String classSource;
+
+    private String name;
+
 }
