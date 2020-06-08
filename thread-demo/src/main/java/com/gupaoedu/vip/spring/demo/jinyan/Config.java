@@ -13,7 +13,4 @@ public class Config {
 
     private String teacher;
 
-    private  String students;
-
-    private String classSource;
 }
