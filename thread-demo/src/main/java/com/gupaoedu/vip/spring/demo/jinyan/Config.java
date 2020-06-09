@@ -11,10 +11,5 @@ public class Config {
 
     private String courseName;
 
-    private String teacher;
-
-    private String classSource;
-
-    private String name;
 
 }
